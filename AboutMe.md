@@ -5,3 +5,4 @@ In terms of CS, one side of things I have some interest in is computer security!
 Over the past couple of summers I've been learning a very simple Visual Novel video game engine called Ren'Py and making my own game using it which I've been updating via Itch.io!
 
 I've never made any kind of software before so I'm excited to finally see how that process works for myself!
+Time for ICSI 148Y!
